@@ -1,0 +1,12 @@
+{
+    "require": {
+        "dompdf/dompdf": "^1.1",
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^1.21"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
